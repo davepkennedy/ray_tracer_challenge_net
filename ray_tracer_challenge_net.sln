@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rt", "rt\rt.csproj", "{7FE87195-8DEC-4BC2-AF3E-B89DB64B737F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rt_test", "rt_test\rt_test.csproj", "{E67DB05E-E33E-43F3-948C-B8A7F7E7D14F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleSilhouette", "CircleSilhouette\CircleSilhouette.csproj", "{986A9CF9-E995-4DAF-B3BB-827CAFF5EE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE87195-8DEC-4BC2-AF3E-B89DB64B737F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE87195-8DEC-4BC2-AF3E-B89DB64B737F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE87195-8DEC-4BC2-AF3E-B89DB64B737F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE87195-8DEC-4BC2-AF3E-B89DB64B737F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67DB05E-E33E-43F3-948C-B8A7F7E7D14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67DB05E-E33E-43F3-948C-B8A7F7E7D14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67DB05E-E33E-43F3-948C-B8A7F7E7D14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67DB05E-E33E-43F3-948C-B8A7F7E7D14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986A9CF9-E995-4DAF-B3BB-827CAFF5EE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986A9CF9-E995-4DAF-B3BB-827CAFF5EE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986A9CF9-E995-4DAF-B3BB-827CAFF5EE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986A9CF9-E995-4DAF-B3BB-827CAFF5EE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F8D39A-E279-4C85-A3A8-3C78D9BF5B1D}
+	EndGlobalSection
+EndGlobal
